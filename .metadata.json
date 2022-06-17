@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pharmaRTF",
+    "oncran": true
+  },
+  {
+    "package": "Tplyr",
+    "oncran": true
+  }
+]
