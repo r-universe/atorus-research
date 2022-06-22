@@ -18,3 +18,8 @@
 	url = https://github.com/atorus-research/tplyr
 	shallow = true
 	registered = true
+[submodule "xportr"]
+	path = xportr
+	url = https://github.com/atorus-research/xportr
+	shallow = true
+	registered = true

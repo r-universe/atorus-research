@@ -10,5 +10,9 @@
   {
     "package": "Tplyr",
     "oncran": true
+  },
+  {
+    "package": "xportr",
+    "oncran": true
   }
 ]
