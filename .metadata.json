@@ -1,9 +1,5 @@
 [
   {
-    "package": "logrx",
-    "oncran": true
-  },
-  {
     "package": "pharmaRTF",
     "oncran": true
   },
