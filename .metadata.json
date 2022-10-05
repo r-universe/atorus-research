@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "metacore",
+    "oncran": true
+  },
+  {
     "package": "pharmaRTF",
     "oncran": true
   },

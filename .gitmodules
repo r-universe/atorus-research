@@ -8,6 +8,11 @@
 	url = https://github.com/atorus-research/logrx
 	shallow = true
 	registered = true
+[submodule "metacore"]
+	path = metacore
+	url = https://github.com/atorus-research/metacore
+	shallow = true
+	registered = true
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmartf
