@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "logrx"]
-	path = logrx
-	url = https://github.com/atorus-research/logrx
-	shallow = true
-	registered = true
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore

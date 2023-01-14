@@ -1,9 +1,5 @@
 [
   {
-    "package": "logrx",
-    "oncran": true
-  },
-  {
     "package": "metacore",
     "oncran": true
   },
