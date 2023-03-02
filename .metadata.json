@@ -1,8 +1,5 @@
 [
   {
-    "package": "metacore"
-  },
-  {
     "package": "pharmaRTF",
     "oncran": true
   },
@@ -13,5 +10,8 @@
   {
     "package": "xportr",
     "oncran": true
+  },
+  {
+    "package": "metacore"
   }
 ]
