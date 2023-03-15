@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "metacore"]
+	path = metacore
+	url = https://github.com/atorus-research/metacore
+	shallow = true
+	registered = true
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmartf
@@ -11,11 +16,6 @@
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/tplyr
-	shallow = true
-	registered = true
-[submodule "metacore"]
-	path = metacore
-	url = https://github.com/atorus-research/metacore
 	shallow = true
 	registered = true
 [submodule "xportr"]

@@ -1,14 +1,14 @@
 [
   {
+    "package": "metacore",
+    "oncran": true
+  },
+  {
     "package": "pharmaRTF",
     "oncran": true
   },
   {
     "package": "Tplyr",
-    "oncran": true
-  },
-  {
-    "package": "metacore",
     "oncran": true
   },
   {
