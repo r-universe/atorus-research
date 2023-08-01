@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Tplyr"]
+	path = Tplyr
+	url = https://github.com/atorus-research/tplyr
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmartf
-[submodule "Tplyr"]
-	path = Tplyr
-	url = https://github.com/atorus-research/tplyr
 [submodule "xportr"]
 	path = xportr
 	url = https://github.com/atorus-research/xportr
