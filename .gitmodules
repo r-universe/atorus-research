@@ -5,6 +5,9 @@
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/tplyr
+[submodule "datasetjson"]
+	path = datasetjson
+	url = https://github.com/atorus-research/datasetjson
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
