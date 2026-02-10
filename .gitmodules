@@ -11,6 +11,9 @@
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/atorus-research/datasetjson
+[submodule "egnyte"]
+	path = egnyte
+	url = https://github.com/atorus-research/egnyte
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
