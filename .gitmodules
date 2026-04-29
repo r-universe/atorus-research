@@ -5,6 +5,9 @@
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/tplyr
+[submodule "abba"]
+	path = abba
+	url = https://github.com/atorus-research/abba
 [submodule "clinify"]
 	path = clinify
 	url = https://github.com/atorus-research/clinify
