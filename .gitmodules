@@ -23,6 +23,9 @@
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmartf
+[submodule "tplyr2"]
+	path = tplyr2
+	url = https://github.com/atorus-research/tplyr2
 [submodule "xportr"]
 	path = xportr
 	url = https://github.com/atorus-research/xportr
